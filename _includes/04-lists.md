@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+### Fav places to eat :heart:
+
+* Ashirvad
+* ICH
+* By2Coffee
+* AndekaFunda
